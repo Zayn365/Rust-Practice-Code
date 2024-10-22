@@ -75,5 +75,5 @@
 // }
 
 fn main() {
-    println!("Rust Pratice")
+    println!("Rust Pratice Code with Examples")
 }
